@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a JS project<br>🤝 I’m looking for help with Golang<br>🌱 I’m currently learning Golang
+I’m currently learning Golang
 
 
 # 💻 Tech Stack:
