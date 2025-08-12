@@ -1,104 +1,106 @@
 ## 💫 About Me:
-- 🌱 I’m currently learning **Cloud technologies**<br>
-- 📫 How to reach me **kavyaatulshahpatan@gmail.com**<br>
+- 🔭 I’m currently working as a **Software Engineering Intern @ Ignosis.ai**, building financial systems and optimizing high-traffic applications
+- 🌱 Deepening my expertise in **Cloud-Native Architectures, Distributed Systems, and GCP/AWS**
+- ☁️ **Google Cloud Digital Leader Certified** | GitHub Foundations Certified
+- 📫 How to reach me: **kavyaatulshahpatan@gmail.com** | [LinkedIn](https://www.linkedin.com/in/kavya-shah-/)
 
-## 💻 Tech Stack:
+## 🛠️ Technical Skills
+
+### Languages & Frameworks
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" title="Java" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" />
       <br>Java
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Vite" title="Vite" />
-      <br>Spring-boot
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring" />
+      <br>Spring Boot
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" title="Node.js" />
-      <br>Node.js
+      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Golang" />
+      <br>Golang
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express.js" title="Express.js" />
-      <br>Express.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" title="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="C++" title="C++" />
-      <br>C++
-    </td>
-    
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" title="JavaScript" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" title="TypeScript" />
-      <br>TypeScript
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" title="Tailwind" />
-      <br>Tailwind
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="C++" />
+      <br>C++
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" title="MongoDB" />
-      <br>MongoDB
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+      <br>Node.js
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="45" height="45" alt="Django" title="Django" />
-      <br>Django
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" />
+      <br>React
     </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" title="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Golang" title="GO" />
-      <br>Do
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" title="Postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Google Cloud Platform" title="GCP" />
-      <br>GCP
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="Amazon Web Services" title="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" title="Vercel" />
-      <br>Vercel
-    </td>
-    
   </tr>
 </table>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/discord-36393e?style=for-the-badge&logo=discord&logoColor=#5865F2)](https://discordapp.com/users/1093437938005704744)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0072b1?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)](https://www.linkedin.com/in/kavya-shah-/)
+### Cloud & DevOps
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="GCP" />
+      <br>Google Cloud
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="AWS" />
+      <br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes" />
+      <br>K8s
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
+      <br>Redis
+    </td>
+  </tr>
+</table>
 
+## � Featured Projects
 
-<!--# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kavyashah26&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kavyashah26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyashah26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
----
+### CredVault - Centralized Credential Vault
+**Golang | Next.js | MongoDB | PostgreSQL | Redis**  
+- Secure credential management with encrypted storage and RBAC
+- Developing NPM package for runtime credential injection (80% complete)
+- Token-based login with browser fingerprinting (Google-inspired workflow)
+
+### JustRun - Cloud-Native Task Scheduler
+**AWS (SQS, DynamoDB, ECS) | Spring Boot**  
+- Serverless HTTP task scheduler with 90% lower overhead than cron
+- Achieved 99.9% reliability with exponential backoff retries
+- Chained task workflows with conditional execution
+
+### Cloud Lens - AWS Resource Notifier
+**React.js | Node.js | AWS SDK**  
+- Real-time monitoring for EC2/S3/RDS with threshold alerts
+- Secure IAM role integration with AWS SDK v3
+- Custom cron jobs for resource checks
+
+## 📈 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kavyashah26&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavyashah26&theme=dark&hide_border=false&layout=compact)
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-shah-/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavyaatulshahpatan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YOUR_PORTFOLIO_LINK)
+
 [![](https://visitcount.itsvg.in/api?id=Kavyashah26&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
